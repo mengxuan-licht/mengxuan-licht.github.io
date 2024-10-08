@@ -30,6 +30,9 @@ h1 {
 
 .skills {
     margin-top: 20px;
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .skills h2 {
